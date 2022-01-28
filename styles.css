@@ -14,7 +14,7 @@ body {
   left: 50%;
   transform: translate(-50%, -50%);
   background: #333;
-  border-radius: 5px;
+  border-radius: 25px;
   display: flex;
   flex-wrap: wrap;
   width: 310px;
@@ -121,19 +121,19 @@ body {
 /* 🤗 esquinas */
 
 .drum:nth-child(1){
-  border-radius: 5px 0px 0px 0px;
+  border-radius: 25px 0px 0px 0px;
 }
 
 .drum:nth-child(4){
-  border-radius: 0px 5px 0px 0px;
+  border-radius: 0px 25px 0px 0px;
 }
 
 .drum:nth-child(13){
-  border-radius: 0px 0px 0px 5px;
+  border-radius: 0px 0px 0px 25px;
 }
 
 .drum:nth-child(16){
-  border-radius: 0px 0px 5px 0px;
+  border-radius: 0px 0px 25px 0px;
 }
 
 /* esquinas */
