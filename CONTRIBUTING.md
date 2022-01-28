@@ -112,7 +112,7 @@ Si te encuentras deseando una característica que no existe en este proyecto, pr
 
 ### Comunidad:
 
-www.hernandoabella.com
-www.facebook.com/hernandoabellaoficial
+www.hernandoabella.com <br>
+www.facebook.com/hernandoabellaoficial <br>
 www.twitter.com/hernandoabella
 
