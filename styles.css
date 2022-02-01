@@ -5,8 +5,9 @@
 }
 
 body {
-  /* background: #5922c7; */
-  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1440' height='560' preserveAspectRatio='none' viewBox='0 0 1440 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1001%26quot%3b)' fill='none'%3e%3crect width='1440' height='560' x='0' y='0' fill='rgba(89%2c 34%2c 199%2c 1)'%3e%3c/rect%3e%3cpath d='M1032.97 348.97L1072.38 348.97L1072.38 379.32L1032.97 379.32z' fill='%23037b0b'%3e%3c/path%3e%3cpath d='M1000.27 470.47 a36.56 36.56 0 1 0 73.12 0 a36.56 36.56 0 1 0 -73.12 0z' fill='%23e73635'%3e%3c/path%3e%3cpath d='M948.41 276.36L948.67 276.36L948.67 308.33L948.41 308.33z' fill='%23d3b714'%3e%3c/path%3e%3cpath d='M812.14 235.82 a49.62 49.62 0 1 0 99.24 0 a49.62 49.62 0 1 0 -99.24 0z' stroke='%23d3b714'%3e%3c/path%3e%3cpath d='M1284.26 451.23a43.74 43.74 0 1 0 82.56-28.94z' stroke='%23d3b714'%3e%3c/path%3e%3cpath d='M177.85 550.89 a0.73 0.73 0 1 0 1.46 0 a0.73 0.73 0 1 0 -1.46 0z' stroke='%23037b0b'%3e%3c/path%3e%3cpath d='M379.67 280.15L434 280.15L434 321.12L379.67 321.12z' fill='%23d3b714'%3e%3c/path%3e%3cpath d='M1213.13 223.18L1249.92 223.18L1249.92 271.55L1213.13 271.55z' stroke='%23037b0b'%3e%3c/path%3e%3cpath d='M393.48 432.59L410.79 432.59L410.79 449.9L393.48 449.9z' fill='%23037b0b'%3e%3c/path%3e%3cpath d='M25.59 486.72a5.24 5.24 0 1 0-3.77 9.78z' stroke='%23d3b714'%3e%3c/path%3e%3cpath d='M606.66 312.22a6.52 6.52 0 1 0 12.22 4.56z' stroke='%23e73635'%3e%3c/path%3e%3cpath d='M676.57 260.47L719.76 260.47L719.76 310.32L676.57 310.32z' stroke='%23037b0b'%3e%3c/path%3e%3cpath d='M1268.74 207.29L1314.65 207.29L1314.65 253.2L1268.74 253.2z' fill='%23d3b714'%3e%3c/path%3e%3cpath d='M841.11 34.74 a4.35 4.35 0 1 0 8.7 0 a4.35 4.35 0 1 0 -8.7 0z' fill='%23e73635'%3e%3c/path%3e%3cpath d='M1144.38 540.6L1188.52 540.6L1188.52 584.74L1144.38 584.74z' fill='%23e73635'%3e%3c/path%3e%3cpath d='M249.45 37.72L255.1 37.72L255.1 43.37L249.45 43.37z' stroke='%23e73635'%3e%3c/path%3e%3cpath d='M1046.06 28.76 a8.1 8.1 0 1 0 16.2 0 a8.1 8.1 0 1 0 -16.2 0z' stroke='%23d3b714'%3e%3c/path%3e%3cpath d='M944.68 325.1L965.16 325.1L965.16 345.58L944.68 345.58z' stroke='%23d3b714'%3e%3c/path%3e%3cpath d='M1415.74 381.15a19.74 19.74 0 1 0 8.64 38.52z' fill='%23d3b714'%3e%3c/path%3e%3cpath d='M1077.15 392.37a33.42 33.42 0 1 0 14.37-65.28z' stroke='%23d3b714'%3e%3c/path%3e%3cpath d='M1263.85 284.86L1285.82 284.86L1285.82 305.32L1263.85 305.32z' stroke='%23037b0b'%3e%3c/path%3e%3cpath d='M157.7 148.1L159.26 148.1L159.26 171.21L157.7 171.21z' stroke='%23037b0b'%3e%3c/path%3e%3cpath d='M688.28 285.49L715.07 285.49L715.07 333.81L688.28 333.81z' stroke='%23d3b714'%3e%3c/path%3e%3cpath d='M669.42 449.54a40.23 40.23 0 1 0-1.93-80.44z' fill='%23e73635'%3e%3c/path%3e%3cpath d='M857.39 316.91a27.1 27.1 0 1 0-33.25-42.8z' stroke='%23d3b714'%3e%3c/path%3e%3cpath d='M517.19 322.15 a28.52 28.52 0 1 0 57.04 0 a28.52 28.52 0 1 0 -57.04 0z' stroke='%23d3b714'%3e%3c/path%3e%3cpath d='M70.64 189.28a26.84 26.84 0 1 0-50.51 18.18z' stroke='%23d3b714'%3e%3c/path%3e%3cpath d='M547.86 413.33a15.97 15.97 0 1 0-8.24 30.85z' stroke='%23e73635'%3e%3c/path%3e%3cpath d='M1165.82 86.68L1217.99 86.68L1217.99 138.85L1165.82 138.85z' fill='%23037b0b'%3e%3c/path%3e%3cpath d='M848 225.46L880.88 225.46L880.88 261.93L848 261.93z' fill='%23037b0b'%3e%3c/path%3e%3cpath d='M182.38 165.16a20.47 20.47 0 1 0-36.81 17.91z' fill='%23e73635'%3e%3c/path%3e%3cpath d='M304.49 60.18 a33.51 33.51 0 1 0 67.02 0 a33.51 33.51 0 1 0 -67.02 0z' fill='%23e73635'%3e%3c/path%3e%3cpath d='M717.92 429.41L768.89 429.41L768.89 480.38L717.92 480.38z' fill='%23d3b714'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1001'%3e%3crect width='1440' height='560' fill='white'%3e%3c/rect%3e%3c/mask%3e%3c/defs%3e%3c/svg%3e");
+  background: #5922c7;
+  background-repeat: no-repeat;
+  height: 100vh;
 }
 
 .container {
@@ -14,12 +15,13 @@ body {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  background: #333;
   border-radius: 25px;
   width: 350px;
   padding: 10px;
-  
-  
+  background: rgba( 255, 255, 255, .25);
+  box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+  backdrop-filter: blur( 4px );
+  -webkit-backdrop-filter: blur( 4px );
 }
 
 .pantalla{
@@ -29,6 +31,10 @@ body {
   height: 100px;
   margin: 0px 0px 20px;
   border-radius: 25px;
+  background: rgba( 255, 255, 255, 0.25);
+  box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+  backdrop-filter: blur( 4px );
+  -webkit-backdrop-filter: blur( 4px );
 
 }
 

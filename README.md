@@ -8,6 +8,13 @@ Una caja de ritmos o caja rítmica es un instrumento musical electrónico que pe
 * CSS
 * JAVASCRIPT
 
+### Características principales
+
+- Fondo Degradado
+- Glassmosphirm
+- Texto con efecto neón
+- Pantalla informativa
+
 ### Licencia 📄
 
 Este proyecto está bajo la Licencia (MIT) - mira el archivo [LICENSE.md](LICENSE.md) para más detalles.

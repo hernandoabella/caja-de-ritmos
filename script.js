@@ -1,6 +1,9 @@
-const numberOfDrumButtons = document.querySelectorAll(".drum").length;
+const numeroDeBotones = document.querySelectorAll(".drum").length;
+const soundInfo = document.querySelector('.sound__info');
 
-for (var i = 0; i < numberOfDrumButtons; i++) {
+
+
+for (var i = 0; i < numeroDeBotones; i++) {
   document.querySelectorAll(".drum")[i].addEventListener("click", function() {
     var buttonInnerHTML = this.innerHTML;
     crearSonido(buttonInnerHTML);
@@ -11,14 +14,15 @@ for (var i = 0; i < numberOfDrumButtons; i++) {
 document.addEventListener("keypress", function(event) {
   crearSonido(event.key);
   buttonAnimation(event.key);
+  
 });
-
 
 function crearSonido(key) {
   switch (key) {
     case "q":
       var tom1 = new Audio("sounds/sound1.mp3");
       tom1.play();
+      soundInfo.innerHTML = "Sample Name " + key;
       break;
     case "w":
       var tom1 = new Audio("sounds/sound2.mp3");
