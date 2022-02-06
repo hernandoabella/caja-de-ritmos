@@ -11,56 +11,52 @@ apariencia, raza, religión o identidad y orientación sexual.
 
 ## Nuestros estándares
 
-Examples of behavior that contributes to a positive environment for our
-community include:
+Ejemplos de comportamiento que contribuye a un entorno positivo para nuestros comunidad incluyen:
 
-* Demonstrating empathy and kindness toward other people
-* Being respectful of differing opinions, viewpoints, and experiences
-* Giving and gracefully accepting constructive feedback
-* Accepting responsibility and apologizing to those affected by our mistakes,
-  and learning from the experience
-* Focusing on what is best not just for us as individuals, but for the
-  overall community
+* Demostrar empatía y amabilidad hacia otras personas.
+* Ser respetuoso con las diferentes opiniones, puntos de vista y experiencias.
+* Dar y aceptar con gracia comentarios constructivos
+* Aceptar la responsabilidad y pedir disculpas a los afectados por nuestros errores,
+   y aprendiendo de la experiencia
+* Centrarse en lo que es mejor no solo para nosotros como individuos, sino también para el
+   comunidad en general
 
-Examples of unacceptable behavior include:
+Ejemplos de comportamiento inaceptable incluyen:
 
-* The use of sexualized language or imagery, and sexual attention or
-  advances
-* Trolling, insulting or derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or email
-  address, without their explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
-  professional setting
+* El uso de lenguaje o imágenes sexualizados, y la atención o avances
+* Trolling, comentarios insultantes o despectivos, y ataques personales o políticos.
+* Acoso público o privado
+* Publicar información privada de otros, como un físico o correo electrónico
+   dirección, sin su permiso explícito
+* Otra conducta que podría razonablemente considerarse inapropiada en un entorno profesional
 
 ## Nuestras responsabilidades
 
-Project maintainers are responsible for clarifying and enforcing our standards of
-acceptable behavior and will take appropriate and fair corrective action in
-response to any instances of unacceptable behavior.
+Los mantenedores de proyectos son responsables de aclarar y hacer cumplir nuestros estándares de
+comportamiento aceptable y tomará las medidas correctivas apropiadas y justas en
+respuesta a cualquier instancia de comportamiento inaceptable.
 
-Project maintainers have the right and responsibility to remove, edit, or reject
-comments, commits, code, wiki edits, issues, and other contributions that are
-not aligned to this Code of Conduct, or to ban
-temporarily or permanently any contributor for other behaviors that they deem
-inappropriate, threatening, offensive, or harmful.
+Los mantenedores del proyecto tienen el derecho y la responsabilidad de eliminar, editar o rechazar
+comentarios, compromisos, código, ediciones wiki, problemas y otras contribuciones que son
+no alineado con este Código de Conducta, o para prohibir
+temporal o permanentemente cualquier contribuyente por otras conductas que considere
+inapropiado, amenazante, ofensivo o dañino.
 
 ## Alcance
 
-This Code of Conduct applies within all community spaces, and also applies when
-an individual is officially representing the community in public spaces.
-Examples of representing our community include using an official e-mail address,
-posting via an official social media account, or acting as an appointed
-representative at an online or offline event.
+Este Código de Conducta se aplica dentro de todos los espacios comunitarios, y también se aplica cuando
+un individuo representa oficialmente a la comunidad en espacios públicos.
+Los ejemplos de representación de nuestra comunidad incluyen el uso de una dirección de correo electrónico oficial,
+publicar a través de una cuenta oficial de redes sociales, o actuar como un designado
+representante en un evento en línea o fuera de línea.
 
 ## Aplicación
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at <>.
-All complaints will be reviewed and investigated promptly and fairly.
+Los casos de comportamiento abusivo, acosador o inaceptable pueden ser
+informado a los líderes comunitarios responsables de la aplicación en <>.
+Todas las quejas serán revisadas e investigadas con prontitud y de manera justa.
 
-All community leaders are obligated to respect the privacy and security of the
-reporter of any incident.
+Todos los líderes comunitarios están obligados a respetar la privacidad y seguridad de los reportero de cualquier incidente.
 
 ## Atribución
 
