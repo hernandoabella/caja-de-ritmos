@@ -132,4 +132,4 @@ Actualizando, mejorando y corrigiendo la documentación
 - Hernando Abella
 
 ## Atribución
-[Hernando Abella](https://github.com/hernandoabella/caja-de-ritmos)!
+Hecho con ❤️ por [Hernando Abella](https://github.com/hernandoabella) 😊
