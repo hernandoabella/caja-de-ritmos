@@ -1,13 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=PT+Sans&display=swap");
 
-:root {
-  --color-principal: #5922c7;
-  --verde: rgb(35, 206, 12);
-  --amarillo: rgb(208, 211, 13);
-  --azul: rgb(26, 196, 193);
-  --morado: rgb(157, 27, 141);
-}
-
 * {
   margin: 0;
   padding: 0;
@@ -15,44 +7,34 @@
 }
 
 body {
-  background: var(--color-principal);
+  background-image: linear-gradient(120deg, #89f7fe 0%, #66a6ff 100%);
   height: 100vh;
 }
 
 .container {
+  -webkit-backdrop-filter: blur(16px) saturate(180%);
+  backdrop-filter: blur(16px) saturate(180%);
+  background-color: rgba(255, 255, 255, 0.75);
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  border-radius: 25px;
-  width: 350px;
+  border-radius: 12px;
+  width: 320px;
+  height: 250px;
   padding: 10px;
-  background: rgba(255, 255, 255, 0.25);
   box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
-  backdrop-filter: blur(4px);
-  -webkit-backdrop-filter: blur(4px);
 }
 
 .pantalla {
-  background: pink;
-  color: #000;
+  background: rgb(255, 255, 255);
   width: 100%;
-  height: 100px;
-  margin: 0px 0px 20px;
+  margin: 0px 0px 20px 0px;
   border-radius: 25px;
-  background: rgba(255, 255, 255, 0.25);
-  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
-  backdrop-filter: blur(4px);
-  -webkit-backdrop-filter: blur(4px);
-  font-family: "PT Sans", sans-serif;
 }
 
 .sound__info {
   color: var(--color-principal);
-  position: relative;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
   text-align: center;
   font-size: 1.3em;
 }
@@ -60,8 +42,8 @@ body {
 .drum {
   outline: none;
   color: #fff;
-  width: 50px;
-  height: 50px;
+  width: 35px;
+  height: 35px;
   font-size: 2em;
   border-radius: 5px;
 }
@@ -70,216 +52,103 @@ body {
   cursor: pointer;
 }
 
-.drum:nth-child(1) {
-  background: radial-gradient(circle, rgb(35, 206, 12), rgb(42, 237, 17));
-}
-
-.drum:nth-child(2) {
-  background: radial-gradient(circle, rgb(35, 206, 12), rgb(42, 237, 17));
-}
-
-.drum:nth-child(3) {
-  background: radial-gradient(circle, rgb(35, 206, 12), rgb(42, 237, 17));
-}
-
-.drum:nth-child(4) {
-  background: radial-gradient(circle, rgb(35, 206, 12), rgb(42, 237, 17));
-}
-
-.drum:nth-child(5) {
-  background: radial-gradient(circle, rgb(208, 211, 13), rgb(251, 255, 0));
-}
-
-.drum:nth-child(6) {
-  background: radial-gradient(circle, rgb(208, 211, 13), rgb(251, 255, 0));
-}
-
-.drum:nth-child(7) {
-  background: radial-gradient(circle, rgb(208, 211, 13), rgb(251, 255, 0));
-}
-
-.drum:nth-child(8) {
-  background: radial-gradient(circle, rgb(208, 211, 13), rgb(251, 255, 0));
-}
-
-.drum:nth-child(9) {
-  background: radial-gradient(circle, rgb(26, 196, 193), rgb(14, 237, 233));
-}
-
-.drum:nth-child(10) {
-  background: radial-gradient(circle, rgb(26, 196, 193), rgb(14, 237, 233));
-}
-
-.drum:nth-child(11) {
-  background: radial-gradient(circle, rgb(26, 196, 193), rgb(14, 237, 233));
-}
-
-.drum:nth-child(12) {
-  background: radial-gradient(circle, rgb(26, 196, 193), rgb(14, 237, 233));
-}
-
-.drum:nth-child(13) {
-  background: radial-gradient(circle, rgb(157, 27, 141), rgb(199, 0, 176));
-}
-
-.drum:nth-child(14) {
-  background: radial-gradient(circle, rgb(157, 27, 141), rgb(199, 0, 176));
-}
-
-.drum:nth-child(15) {
-  background: radial-gradient(circle, rgb(157, 27, 141), rgb(199, 0, 176));
-}
-
-.drum:nth-child(16) {
-  background: radial-gradient(circle, rgb(157, 27, 141), rgb(199, 0, 176));
-}
-
 .q {
-  background: rgb(212, 0, 255);
+  background: radial-gradient(circle, rgb(35, 206, 12), rgb(42, 237, 17));
   animation: coolAnimation 0.5s;
 }
 
 .w {
-  background: rgb(212, 0, 255);
+  background: radial-gradient(circle, rgb(35, 206, 12), rgb(42, 237, 17));
   animation: coolAnimation 0.5s;
   animation-delay: 0.2s;
 }
 
 .e {
-  background: rgb(212, 0, 255);
+  background: radial-gradient(circle, rgb(35, 206, 12), rgb(42, 237, 17));
   animation: coolAnimation 0.5s;
   animation-delay: 0.3s;
 }
 
 .r {
-  background: rgb(212, 0, 255);
+  background: radial-gradient(circle, rgb(35, 206, 12), rgb(42, 237, 17));
   animation: coolAnimation 0.5s;
   animation-delay: 0.4s;
 }
 
 .t {
-  background: rgb(0, 255, 72);
+  background: radial-gradient(circle, rgb(208, 211, 13), rgb(251, 255, 0));
   animation: coolAnimation 0.5s;
   animation-delay: 0.5s;
 }
 
 .y {
-  background: rgb(0, 255, 72);
+  background: radial-gradient(circle, rgb(208, 211, 13), rgb(251, 255, 0));
   animation: coolAnimation 0.5s;
   animation-delay: 0.6s;
 }
 
 .u {
-  background: rgb(0, 255, 72);
+  background: radial-gradient(circle, rgb(208, 211, 13), rgb(251, 255, 0));
   animation: coolAnimation 0.5s;
   animation-delay: 0.7s;
 }
 
 .i {
-  background: rgb(0, 255, 72);
+  background: radial-gradient(circle, rgb(208, 211, 13), rgb(251, 255, 0));
   animation: coolAnimation 0.5s;
   animation-delay: 0.8s;
 }
 
 .a {
-  background: rgb(33, 9, 250);
+  background: radial-gradient(circle, rgb(26, 196, 193), rgb(14, 237, 233));
   animation: coolAnimation 0.5s;
   animation-delay: 0.9s;
 }
 
 .s {
-  background: rgb(33, 9, 250);
+  background: radial-gradient(circle, rgb(26, 196, 193), rgb(14, 237, 233));
   animation: coolAnimation 0.5s;
   animation-delay: 1s;
 }
 
 .d {
-  background: rgb(33, 9, 250);
+  background: radial-gradient(circle, rgb(26, 196, 193), rgb(14, 237, 233));
   animation: coolAnimation 0.5s;
   animation-delay: 1.1s;
 }
 
 .f {
-  background: rgb(33, 9, 250);
+  background: radial-gradient(circle, rgb(26, 196, 193), rgb(14, 237, 233));
   animation: coolAnimation 0.5s;
   animation-delay: 1.2s;
 }
 
 .g {
-  background: rgb(199, 0, 53);
+  background: radial-gradient(circle, rgb(157, 27, 141), rgb(199, 0, 176));
   animation: coolAnimation 0.5s;
   animation-delay: 1.3s;
 }
 
 .h {
-  background: rgb(199, 0, 53);
+  background: radial-gradient(circle, rgb(157, 27, 141), rgb(199, 0, 176));
   animation: coolAnimation 0.5s;
   animation-delay: 1.4s;
 }
 
 .j {
-  background: rgb(199, 0, 53);
+  background: radial-gradient(circle, rgb(157, 27, 141), rgb(199, 0, 176));
   animation: coolAnimation 0.5s;
   animation-delay: 1.5s;
 }
 
 .k {
-  background: rgb(199, 0, 53);
+  background: radial-gradient(circle, rgb(157, 27, 141), rgb(199, 0, 176));
   animation: coolAnimation 0.5s;
   animation-delay: 1.6s;
 }
 
 .pressed {
-  transform: scale(0.8);
-  background: rgb(42, 237, 17) !important;
-}
-
-.pressed:nth-child(5) {
-  background: rgb(251, 255, 0) !important;
-}
-
-.pressed:nth-child(6) {
-  background: rgb(251, 255, 0) !important;
-}
-
-.pressed:nth-child(7) {
-  background: rgb(251, 255, 0) !important;
-}
-
-.pressed:nth-child(8) {
-  background: rgb(251, 255, 0) !important;
-}
-
-.pressed:nth-child(9) {
-  background: rgb(14, 237, 233) !important;
-}
-
-.pressed:nth-child(10) {
-  background: rgb(14, 237, 233) !important;
-}
-
-.pressed:nth-child(11) {
-  background: rgb(14, 237, 233) !important;
-}
-
-.pressed:nth-child(12) {
-  background: rgb(14, 237, 233) !important;
-}
-
-.pressed:nth-child(13) {
-  background: rgb(199, 0, 176) !important;
-}
-
-.pressed:nth-child(14) {
-  background: rgb(199, 0, 176) !important;
-}
-
-.pressed:nth-child(15) {
-  background: rgb(199, 0, 176) !important;
-}
-
-.pressed:nth-child(16) {
-  background: rgb(199, 0, 176) !important;
+  transform: scale(0.9);
 }
 
 @keyframes coolAnimation {
